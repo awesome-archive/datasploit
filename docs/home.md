@@ -16,16 +16,12 @@ Following API configs are mandatory for proper results in domainOsint.py:
 
 Other modules:
 * github_access_token
-* instagram_token
-* instagram_client_id
-* instagram_client_secret
 * jsonwhois
 
 
 ## Before running the program, please make sure that you have:
 * Changed the name of the file 'config_sample.py' to config.py
 * Entered all the required APIs in config.py file, as mentioned above. 
-* Installed MongoDb and the mongodb is running. [Refer to documentation](https://docs.mongodb.com/manual/installation/): 
 
 
 ## Usage
